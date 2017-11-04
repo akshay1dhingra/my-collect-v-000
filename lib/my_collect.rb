@@ -1,6 +1,6 @@
 
 
-def my_collect(aray)
+def my_collect(array)
 
 
 end
