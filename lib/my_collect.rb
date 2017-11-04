@@ -7,5 +7,5 @@ def my_collect(array)
     collection << yield(array[i]).upcase
     i += 1
   end
-
+  collection
 end
